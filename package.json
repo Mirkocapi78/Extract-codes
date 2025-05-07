@@ -3,7 +3,5 @@
   "version": "1.0.0",
   "bin": "./extractCodes.js",
   "dependencies": {},
-  "devDependencies": {
-    "pkg": "^5.10.4"
   }
 }
