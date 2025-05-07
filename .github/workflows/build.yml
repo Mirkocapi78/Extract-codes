@@ -24,7 +24,7 @@ jobs:
           npx pkg extractCodes.js --targets node18-win-x64 --output extractCodes.exe
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: extract-codes-exe
           path: extractCodes.exe
