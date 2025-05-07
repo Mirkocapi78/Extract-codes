@@ -1,7 +1,0 @@
-{
-  "name": "extract-codes",
-  "version": "1.0.0",
-  "bin": "./extractCodes.js",
-  "dependencies": {},
-  }
-}
